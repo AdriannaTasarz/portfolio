@@ -1,2 +1,3 @@
 # portfolio
-Portfolio Sample Website
+
+Projekt prostej strony na potrzeby Motorola Academy.
